@@ -1,4 +1,4 @@
-# MachineLearning Repository
+# Machine Learning Repository
 
 In diesem Repository werden unterschiedliche Datensätze mithilfe verschiedener Machine-Learning-Algorithmen untersucht. Die Struktur des Projekts folgt dem typischen Ablauf eines ML-Projekts, einschließlich Exploratory Data Analysis (EDA) und anderer wesentlicher Schritte.
 
