@@ -25,7 +25,7 @@ In diesem Repository werden unterschiedliche Datensätze mithilfe verschiedener 
 
 Das Ziel dieses Repositories ist es, verschiedene Machine-Learning-Ansätze zu erforschen und deren Anwendung auf unterschiedliche Datensätze zu demonstrieren.
 
-# English
+English
 # Machine Learning Repository
 
 This repository explores various datasets using different machine learning algorithms. The structure of the project follows the typical workflow of an ML project, including Exploratory Data Analysis (EDA) and other essential steps.
